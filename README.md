@@ -6,6 +6,10 @@
 
 ---
 
+> **⚠️ This is a public bridge repository.** The full source code, issue tracker, and development activity live in the private [`narko4u/skills-guard-core`](https://github.com/narko4u/skills-guard-core) repository. This repo serves as the public-facing entry point.
+
+---
+
 ## Why Skills Guard?
 
 Skills are the new attack surface. AI agents run skill code that has unfettered access to credentials, filesystems, networks, and system resources. Hardcoded API keys, prompt injection payloads, dangerous function calls — and until now, no tool to find them.
@@ -96,6 +100,12 @@ Publish your scanned skills to the **Skills Guard Registry** — a public direct
 | Priority support | — | ✓ |
 
 **Per-scan pricing:** $0.01/scan (billed overages)
+
+---
+
+## Source Code
+
+The full source code for Skills Guard is maintained in the **private** [`narko4u/skills-guard-core`](https://github.com/narko4u/skills-guard-core) repository. This public repo provides documentation, issue tracking, and community engagement.
 
 ---
 
